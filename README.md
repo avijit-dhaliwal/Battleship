@@ -216,3 +216,11 @@ Our empirical results fall within these bounds, as expected.
 This comprehensive analysis of Battleship has provided insights into the effectiveness of various search strategies. We've implemented and empirically tested these strategies, confirming our theoretical predictions. The Hunt and Target strategy emerges as the most effective among those tested, demonstrating the power of adaptive approaches in game playing.
 
 Our work lays a foundation for further research into game theory, search algorithms, and artificial intelligence in the context of Battleship and similar games. The methodologies developed here have potential applications in broader fields such as operations research and decision theory.
+
+## 12. Contact
+
+avijit.dhaliwal@gmail.com
+
+## 13. License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
