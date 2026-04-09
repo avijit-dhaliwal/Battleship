@@ -136,6 +136,10 @@ int pdf_search(Board *board) {
     return best_row * GRID_SIZE + best_col;
 }
 
+
+
+
+
 int hunt_and_target(Board *board) {
     for (int i = 0; i < GRID_SIZE; i++) {
         for (int j = 0; j < GRID_SIZE; j++) {
@@ -154,6 +158,10 @@ int hunt_and_target(Board *board) {
     }
     return random_search(board);
 }
+
+
+
+
 
 int simulate_game(Board *board, int (*strategy)(Board*)) {
     int shots = 0;
